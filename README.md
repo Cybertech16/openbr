@@ -11,3 +11,4 @@
     $ git submodule update
     
 3) Build OpenBR by following the **[Build Instructions](http://openbiometrics.org/docs/install/)** for your OS.
+end
